@@ -15,7 +15,7 @@ const Lyrics = async (m, Matrix) => {
 
     try {
       await m.React('🕘');
-      await m.reply('A moment, *HANSAMAL-MD* is generating your lyrics request...');
+      await m.reply('A moment, *IBBOT-XMD* is generating your lyrics request...');
 
       if (!text.includes('|')) {
         return m.reply('Please provide the song name and artist name separated by a "|", for example: Spectre|Alan Walker.');
@@ -45,8 +45,8 @@ const Lyrics = async (m, Matrix) => {
           {
             name: "cta_url",
             buttonParamsJson: JSON.stringify({
-              display_text: "sʜᴏᴡ 💜 ғᴏʀ ᴇᴛʜɪx-ᴍᴅ",
-              url: `https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S`
+              display_text: "sʜᴏᴡ 💜 ғᴏʀ IBBOT-XMD",
+              url: `https://chat.whatsapp.com/LqD6utmLF699JIW9R82O95`
             })
           },
           {
