@@ -1,16 +1,16 @@
 {
-  "name": "HANSAMAL-MD",
+  "name": "IBB-XMD",
   "version": "10.8.1",
-  "description": "HANSAMAL-MD latest multi device whatsapp bot",
+  "description": "IBB-XMD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name HANSAMAL-MD",
-    "stop": "pm2 stop HANSAMAL-MD",
-    "restart": "pm2 restart HANSAMAL-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name IBB-XMD",
+    "stop": "pm2 stop IBB-XMD",
+    "restart": "pm2 restart IBB-XMD"
   },
   "keywords": ["hansamal-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "IMALKA",
+  "author": "Imtech666",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
