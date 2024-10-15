@@ -1,15 +1,15 @@
 {
-  "name": "IBB-XMD",
+  "name": "lBB-MD",
   "version": "10.8.1",
-  "description": "IBB-XMD latest multi device whatsapp bot",
+  "description": "lBB-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name IBB-XMD",
-    "stop": "pm2 stop IBB-XMD",
-    "restart": "pm2 restart IBB-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name lBB-MD",
+    "stop": "pm2 stop lBB-MD",
+    "restart": "pm2 restart lBB-MD"
   },
-  "keywords": ["hansamal-md", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["lbb-md", "whatsapp-bot", "whatsapp md bot"],
   "author": "lmtech666",
   "license": "ISC",
   "dependencies": {
