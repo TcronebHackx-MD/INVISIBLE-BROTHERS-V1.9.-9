@@ -10,7 +10,7 @@
     "restart": "pm2 restart IBB-XMD"
   },
   "keywords": ["hansamal-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Imtech666",
+  "author": "lmtech666",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
